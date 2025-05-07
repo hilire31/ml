@@ -1,0 +1,8 @@
+{"max_depth": 1, "min_samples_leaf": 1, "splitter": "best", "score": 60.758293838862556}
+{"max_depth": 5, "min_samples_leaf": 5, "splitter": "best", "score": 66.06635071090048}
+{"max_depth": 5, "min_samples_leaf": 5, "splitter": "best", "score": 66.06635071090048}
+{"max_depth": 9, "min_samples_leaf": 3, "splitter": "best", "score": 68.34123222748815}
+{"max_depth": 5, "min_samples_leaf": 5, "splitter": "best", "score": 66.06635071090048}
+{"max_depth": 5, "min_samples_leaf": 5, "splitter": "best", "score": 67.6465010430495}
+{"max_depth": 9, "min_samples_leaf": 3, "splitter": "best", "score": 68.63265693153802}
+{"max_depth": 5, "min_samples_leaf": 5, "splitter": "best", "score": 67.6465010430495}

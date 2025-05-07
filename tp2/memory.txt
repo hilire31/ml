@@ -1,0 +1,26 @@
+
+{"activation": "relu", "hidden_layer_sizes": [500, 200, 100, 50], "max_iter": 20000, "validation_score": 0.7378183568037449, "train_score": 0.9798566959168896, "early_stopping": false, "training_duration": 17.26}
+{"activation": "relu", "hidden_layer_sizes": [500, 200, 100, 50], "max_iter": 20000, "validation_score": 0.7378183568037449, "train_score": 0.9798566959168896, "early_stopping": false, "training_duration": 16.69}
+{"activation": "relu", "hidden_layer_sizes": [500, 200, 100, 50], "max_iter": 30000, "validation_score": 0.7378183568037449, "train_score": 0.9798566959168896, "early_stopping": false, "training_duration": 16.9}
+{"activation": "relu", "hidden_layer_sizes": [500, 200, 100, 50], "max_iter": 20000, "validation_score": 0.7648360493460615, "train_score": 0.7964123538598855, "early_stopping": true, "training_duration": 3.59}
+{"activation": "relu", "hidden_layer_sizes": [500, 200, 100, 50], "max_iter": 20000, "validation_score": 0.7648360493460615, "train_score": 0.7964123538598855, "early_stopping": true, "training_duration": 3.49}
+{"activation": "tanh", "hidden_layer_sizes": [500, 200, 100, 50], "max_iter": 20000, "validation_score": 0.7442108088475855, "train_score": 0.7536692369641205, "early_stopping": true, "training_duration": 4.04}
+{"activation": "tanh", "hidden_layer_sizes": [500, 200, 100, 50], "max_iter": 20000, "validation_score": 0.7594445689853446, "train_score": 0.7885787183565864, "early_stopping": true, "training_duration": 1.56}
+{"activation": "relu", "hidden_layer_sizes": [500, 200, 100, 50], "max_iter": 20000, "validation_score": 0.7426558403234563, "train_score": 0.7628956155188652, "early_stopping": true, "training_duration": 14.86}
+{"activation": "relu", "hidden_layer_sizes": [500, 200, 100, 50], "max_iter": 20000, "validation_score": 0.55353554573755, "train_score": 0.5549638376820467, "early_stopping": true, "training_duration": 39.8, "solver":"sgd"}
+{"activation": "relu", "hidden_layer_sizes": [500, 200, 100, 50], "max_iter": 20000, "validation_score": 0.7378183568037449, "train_score": 0.9798566959168896, "early_stopping": false, "training_duration": 16.78}
+{"activation": "relu", "hidden_layer_sizes": [500, 200, 100, 50], "max_iter": 20000, "validation_score": 0.7378183568037449, "train_score": 0.9798566959168896, "early_stopping": false, "training_duration": 16.67}
+{"activation": "relu", "hidden_layer_sizes": [500, 200, 100, 50], "max_iter": 20000, "validation_score": 0.7383885092420193, "train_score": 0.7904625985129807, "early_stopping": true, "training_duration": 1.18}
+{"activation": "relu", "hidden_layer_sizes": [500, 200, 100, 50], "max_iter": 20000, "validation_score": 0.7351961019934774, "train_score": 0.7815714938501911, "early_stopping": true, "training_duration": 2.95}
+{"activation": "relu", "hidden_layer_sizes": [500, 200, 100, 50], "max_iter": 10000, "validation_score": 0.743342985808231, "train_score": 0.8176519851452415, "early_stopping": true, "training_duration": 1.6}
+{"activation": "relu", "hidden_layer_sizes": [500, 200, 100, 50], "max_iter": 20000, "validation_score": 0.7400197995095044, "train_score": 0.7949058427948027, "early_stopping": true, "training_duration": 0.97}
+{"activation": "relu", "hidden_layer_sizes": [1000, 500, 200, 100], "max_iter": 10000, "validation_score": 0.7308308499076741, "train_score": 0.7674272531241684, "early_stopping": true, "training_duration": 2.33}
+{"activation": "relu", "hidden_layer_sizes": [1000, 500, 200, 100], "max_iter": 20000, "validation_score": 0.7504041337604294, "train_score": 0.8111198577562151, "early_stopping": true, "training_duration": 3.75}
+{"activation": "relu", "hidden_layer_sizes": [2000, 1000, 500, 200], "max_iter": 10000, "validation_score": 0.7441775935230075, "train_score": 0.8589262510696068, "early_stopping": true, "training_duration": 18.64}
+{"activation": "relu", "hidden_layer_sizes": [2000, 1000, 500, 200], "max_iter": 20000, "validation_score": 0.7647579631631787, "train_score": 0.8803513878392036, "early_stopping": true, "training_duration": 23.25}
+{"activation": "tanh", "hidden_layer_sizes": [500, 200, 100, 50], "max_iter": 10000, "validation_score": 0.7473760680346243, "train_score": 0.7648313483051963, "early_stopping": true, "training_duration": 0.75}
+{"activation": "tanh", "hidden_layer_sizes": [500, 200, 100, 50], "max_iter": 20000, "validation_score": 0.7599943607700819, "train_score": 0.8286059508935499, "early_stopping": true, "training_duration": 1.72}
+{"activation": "tanh", "hidden_layer_sizes": [1000, 500, 200, 100], "max_iter": 10000, "validation_score": 0.7528307149012342, "train_score": 0.8111557100950548, "early_stopping": true, "training_duration": 3.82}
+{"activation": "tanh", "hidden_layer_sizes": [1000, 500, 200, 100], "max_iter": 20000, "validation_score": 0.7378567851014614, "train_score": 0.8447900774222857, "early_stopping": true, "training_duration": 5.77}
+{"activation": "tanh", "hidden_layer_sizes": [2000, 1000, 500, 200], "max_iter": 10000, "validation_score": 0.7390439035959396, "train_score": 0.7602638161856345, "early_stopping": true, "training_duration": 9.28}
+{"activation": "tanh", "hidden_layer_sizes": [2000, 1000, 500, 200], "max_iter": 20000, "validation_score": 0.7260748643783386, "train_score": 0.7403406751167686, "early_stopping": true, "training_duration": 8.29}
